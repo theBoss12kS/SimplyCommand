@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 
-const char* ssid = "FirstFloor";    // Replace with your WiFi network name
-const char* password = "24913842";  // Replace with your WiFi password
+const char* ssid = "ENTER NETWORK ID";    // Replace with your WiFi network name
+const char* password = "ENTER NETWORK PASSWORD";  // Replace with your WiFi password
 
 WiFiServer server(1234);
 WiFiClient client;
