@@ -1,1 +1,5 @@
-This example attempts to show how we can use SimplyConnect with a Java Application to Control Two Servos
+This example attempts to show how we can use SimplyConnect with a JavaFX Application to Control Two Servos
+
+The controller used is an ESP32 controller.
+
+Please download the .ino and the JAR file, and modify the Wifi credentials in the ino file. This example assumes that you have connected both your laptop and your ESP32 to the same WiFi network.
