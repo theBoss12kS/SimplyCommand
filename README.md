@@ -1,5 +1,5 @@
 # SimplyCommand
-A library designed to control Servos easily.
+An Arduino library designed to control Servos easily.
 
 Developed by Paramesh Sriram P S.
 
